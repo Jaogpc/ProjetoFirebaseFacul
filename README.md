@@ -3,8 +3,11 @@ Projeto mobile com conexão ao Firebase.
 
 # Funcões:
 Login de Usuário: possibilidade de login usando um e-mail e uma senha.
+
 Criação de Conta: criação de uma nova conta para acessar o aplicativo.
+
 Recuperação de Senha: solicitação de redefinição de senha por e-mail caso esqueçam sua senha.
+
 Interface Intuitiva: interface do usuário é simples e fácil de usar, com campos de entrada claros e botões de ação.
 
 # Imagens:
