@@ -1,14 +1,14 @@
 # ProjetoFirebaseFacul
-Projeto mobile com conexão ao Firebase.
+- Projeto mobile com conexão ao Firebase.
 
 # Funcões:
-Login de Usuário: possibilidade de login usando um e-mail e uma senha.
+- Login de Usuário: possibilidade de login usando um e-mail e uma senha.
 
-Criação de Conta: criação de uma nova conta para acessar o aplicativo.
+- Criação de Conta: criação de uma nova conta para acessar o aplicativo.
 
-Recuperação de Senha: solicitação de redefinição de senha por e-mail caso esqueçam sua senha.
+- Recuperação de Senha: solicitação de redefinição de senha por e-mail caso esqueçam sua senha.
 
-Interface Intuitiva: interface do usuário é simples e fácil de usar, com campos de entrada claros e botões de ação.
+- Interface Intuitiva: interface do usuário é simples e fácil de usar, com campos de entrada claros e botões de ação.
 
 # Imagens:
 ![377604399-0320b4d0-1a92-4bca-ba86-04d328529afd](https://github.com/user-attachments/assets/979e086f-3ab5-4173-a8f1-fe08f47c06cb)
